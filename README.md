@@ -1,6 +1,6 @@
 ### Hola! 👋
 
-Does this number: ![counter](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fulidtko%2Fulidtko) increase when you ^R this page?..
+Does this number: ![](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fulidtko%2Fulidtko) increase as you ^R this page?..
 
 If so, your browser is leaving nasty tracks on the internet. Just sayin ¯\_(ツ)_/¯
 
