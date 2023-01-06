@@ -1,10 +1,4 @@
-### Hola! 👋
-
-![](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fulidtko%2Fulidtko) — does this number increase as you ^R this page?..
-
-If so, your browser is leaving nasty tracks on the internet. Just sayin ¯\_(ツ)_/¯
-
-![](https://github-readme-stats.vercel.app/api?username=ulidtko&show_icons=true&layout=compact)
+![](./54421a0d-0a8d-4baa-b262-90475cc5e5a0.jpeg)
 
 <!--
 **ulidtko/ulidtko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
